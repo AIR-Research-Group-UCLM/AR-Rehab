@@ -7,32 +7,8 @@
   "description": "Raw per-session logs from an occlusion-resilient visuo-inertial smart-object system for upper-limb rehabilitation, recorded with instrumented therapeutic cubes and a Meta Quest 3 headset during a preliminary six-participant feasibility study at the Hospital Nacional de Parapléjicos (Toledo, Spain). Each session directory contains synchronized CSV streams: smart-object inertial and grip-pressure telemetry, YOLOv8-Pose visual detections with keypoint coordinates, fused 6-DoF pose estimates, per-frame cube state with tracking source and contact level, participant head and hand kinematics, automatically segmented interaction episodes, serious-game events, and yaw-calibration records. Participant data are anonymised.",
   "creators": [
     {
-      "name": "Albusac, Javier",
-      "affiliation": "University of Castilla-La Mancha",
-      "orcid": "0000-0003-1889-3065"
-    },
-    {
-      "name": "Grande, Rubén",
-      "affiliation": "University of Castilla-La Mancha",
-      "orcid": "0000-0002-0583-6865"
-    },
-    {
-      "name": "Herrera, Vanesa",
-      "affiliation": "University of Castilla-La Mancha",
-      "orcid": "0000-0002-6187-4794"
-    },
-    {
-      "name": "González-Morcillo, Carlos",
-      "affiliation": "University of Castilla-La Mancha"
-    },
-    {
-      "name": "de los Reyes-Guzmán, Ana",
-      "affiliation": "Hospital Nacional de Parapléjicos, SESCAM",
-      "orcid": "0000-0003-2905-2405"
-    },
-    {
-      "name": "Vallejo, David",
-      "affiliation": "University of Castilla-La Mancha"
+      "name": "AIR Research Group, University of Castilla-La Mancha",
+      "affiliation": "Escuela Superior de Informática, University of Castilla-La Mancha, Ciudad Real, Spain"
     }
   ],
   "keywords": [
