@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "AR-Rehab: Raw per-session logs for occlusion-resilient mixed reality upper-limb rehabilitation"
+abstract: >-
+  Raw per-session logs from an occlusion-resilient visuo-inertial smart-object
+  system for upper-limb rehabilitation, recorded with instrumented therapeutic
+  cubes and a Meta Quest 3 headset during a preliminary six-participant
+  feasibility study at the Hospital Nacional de Paraplejicos (Toledo, Spain).
+  Each session directory contains synchronized CSV streams: smart-object
+  inertial and grip-pressure telemetry, YOLOv8-Pose visual detections with
+  keypoint coordinates, fused 6-DoF pose estimates, per-frame cube state with
+  tracking source and contact level, participant head and hand kinematics,
+  automatically segmented interaction episodes, serious-game events, and
+  yaw-calibration records. Participant data are anonymised.
+type: dataset
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-08-12"
+authors:
+  - family-names: "Albusac"
+    given-names: "Javier"
+    orcid: "https://orcid.org/0000-0003-1889-3065"
+    affiliation: "University of Castilla-La Mancha"
+  - family-names: "Grande"
+    given-names: "Ruben"
+    orcid: "https://orcid.org/0000-0002-0583-6865"
+    affiliation: "University of Castilla-La Mancha"
+  - family-names: "Herrera"
+    given-names: "Vanesa"
+    orcid: "https://orcid.org/0000-0002-6187-4794"
+    affiliation: "University of Castilla-La Mancha"
+  - family-names: "Gonzalez-Morcillo"
+    given-names: "Carlos"
+    affiliation: "University of Castilla-La Mancha"
+  - family-names: "de los Reyes-Guzman"
+    given-names: "Ana"
+    orcid: "https://orcid.org/0000-0003-2905-2405"
+    affiliation: "Hospital Nacional de Paraplejicos, SESCAM"
+  - family-names: "Vallejo"
+    given-names: "David"
+    affiliation: "University of Castilla-La Mancha"
+keywords:
+  - mixed reality
+  - smart objects
+  - visual occlusion
+  - visuo-inertial fusion
+  - upper limb rehabilitation
+  - spinal cord injury
+  - serious games
